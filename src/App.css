@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.nav-item .active {
+  font-weight: bold !important;
+  color: blue; /* Change the color as needed */
+}
